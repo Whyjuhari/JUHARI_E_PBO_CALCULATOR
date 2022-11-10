@@ -4,6 +4,9 @@
 1. Membuat Kalkulator Sederhana Dengan Menggunakan Konsep OOP pada java.
 2. Untuk melihat source code nya, buka folder/package src/App.
 3. Di dalam folder tersebut terdapat dua file.
+4. File Main.java & Calculator.java
 
 ## NOTE !
-To follow this source code. You have to understand the concept of OOP in java first.🙂
+For those of you who want to follow this source code. 
+Make sure you already understand about OOP Concepts in Java. 
+Because this java program uses the concept of OOP in java.🙂
